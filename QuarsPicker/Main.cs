@@ -31,6 +31,7 @@ namespace QuarsPicker
             colorBox.Padding = new Padding(2);
             selectedColor.BorderStyle = BorderStyle.FixedSingle;
             selectedColor.Padding = new Padding(2);
+            MessageBox.Show("Press X to grab color.);
         }
 
         private void Main_FormClosed(object sender, FormClosedEventArgs e)
