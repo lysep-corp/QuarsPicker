@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuarsPicker", "QuarsPicker\QuarsPicker.csproj", "{3BFA591D-F1AB-4A33-8E3B-846D020EDB2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BFA591D-F1AB-4A33-8E3B-846D020EDB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFA591D-F1AB-4A33-8E3B-846D020EDB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFA591D-F1AB-4A33-8E3B-846D020EDB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFA591D-F1AB-4A33-8E3B-846D020EDB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98950E37-DED2-46F8-9797-CD61D8322B14}
+	EndGlobalSection
+EndGlobal
